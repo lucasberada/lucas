@@ -1,0 +1,70 @@
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.deps.json
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csprojAssemblyReference.cache
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageCadastro.xaml.g.cs
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfo.cs
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\joaos\Desktop\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.deps.json
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csprojAssemblyReference.cache
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageCadastro.xaml.g.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfo.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageSplash.xaml.g.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\joaos\OneDrive\Senai\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.deps.json
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\bin\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageCadastro.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PageSplash.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfo.cs
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.dll
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\ref\Aplicativo.dll
+C:\Users\senai\Desktop\ProjetoWsTowerMobile\Aplicativo\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.pdb
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Views\PageCadastro.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Views\PageLogin.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Views\PageSplash.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.AssemblyInfo.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Aplicativo.csproj.CoreCompileInputs.cache
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\Views\PageAbout.xaml.g.cs
+C:\Users\senai\Desktop\preonto\Aplicativo\bin\Debug\netstandard2.0\WsTower Ingresso.deps.json
+C:\Users\senai\Desktop\preonto\Aplicativo\bin\Debug\netstandard2.0\WsTower Ingresso.dll
+C:\Users\senai\Desktop\preonto\Aplicativo\bin\Debug\netstandard2.0\ref\WsTower Ingresso.dll
+C:\Users\senai\Desktop\preonto\Aplicativo\bin\Debug\netstandard2.0\WsTower Ingresso.pdb
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\WsTower Ingresso.dll
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\ref\WsTower Ingresso.dll
+C:\Users\senai\Desktop\preonto\Aplicativo\obj\Debug\netstandard2.0\WsTower Ingresso.pdb

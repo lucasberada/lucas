@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Aplicativo.Views.PageCadastro">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical"
+                     BackgroundColor="AliceBlue">
+
+            <StackLayout Orientation="Horizontal" Margin="100,20,0,0">
+                <Image Source="WS_Towers.png" WidthRequest="100" 
+                />
+                <Image Source="unnamed.jpg" WidthRequest="100" Margin="-20, 0 ,0 ,0 " 
+                />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="Center" 
+                         Margin="0, 35, 0, 0">
+                
+                <Entry Placeholder="Nome completo:" 
+                       ClearButtonVisibility="WhileEditing" 
+                       VerticalOptions="Start" 
+                       HorizontalOptions="Center" 
+                       WidthRequest="230" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="Center"  
+                         Margin="0, 15, 0, 0">
+                
+                <Entry Placeholder="Telefone:" 
+                       ClearButtonVisibility="WhileEditing"
+                       VerticalOptions="Start" 
+                       HorizontalOptions="Center" 
+                       WidthRequest="230" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="Center"  
+                         Margin="0, 15, 0, 0">
+                
+                <Entry Placeholder="Email:" 
+                       ClearButtonVisibility="WhileEditing" 
+                       VerticalOptions="Start" 
+                       HorizontalOptions="Center" 
+                       WidthRequest="230"
+                       x:Name="EntryUserEmail"/>
+                
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="Center"  
+                         Margin="0, 15, 0, 0">
+                
+                <Entry IsPassword="True" 
+                       Placeholder= "Senha:" 
+                       ClearButtonVisibility="WhileEditing" 
+                       VerticalOptions="Start"  
+                       HorizontalOptions="Center" 
+                       WidthRequest="230"
+                       x:Name="EntryUserPassword"/>
+                
+            </StackLayout >
+            <StackLayout Grid.Row="4">
+                <Button Text="Cadastrar" HorizontalOptions="CenterAndExpand" TextColor="White" BackgroundColor="Blue" Clicked="Button_Clicked"></Button>
+            </StackLayout>
+
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
